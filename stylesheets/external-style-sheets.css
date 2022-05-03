@@ -1,5 +1,6 @@
 body {
-  background-image: url(images-etc/Background.jpg);
-  opacity: 60;
+  background-image: url("/images-etc/Mountain-Background.jpg");
+  background-color: rgb(255, 255, 255);
+  background-repeat: no-repeat;
   line-height: 140%;
 }
